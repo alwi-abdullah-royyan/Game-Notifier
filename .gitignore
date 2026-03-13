@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyw~
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Runtime data — user-specific, not committed
+data/notifications.db
+data/backups/
+logs/
+
+# Config — contains private API URLs; commit only the example
+config/config.json
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/

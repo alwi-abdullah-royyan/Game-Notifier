@@ -1,0 +1,17 @@
+{
+  "API_URL90": "https://your.api/endpoint?rows=90&_=",
+  "API_URL15": "https://your.api/endpoint?rows=15&_=",
+
+  "APP_NAME": "My Game Notifier",
+  "ITEM_URL_TEMPLATE": "https://your.site/threads/{id}",
+  "ITEM_LABEL_NEW": "new item(s)",
+  "ITEM_LABEL_UPDATED": "updated item(s)",
+  "TRAY_COUNT_LABEL": "New items",
+
+  "RESPONSE_PATH": ["msg", "data"],
+  "FIELD_ID": "thread_id",
+  "FIELD_TIMESTAMP": "ts",
+  "FIELD_TITLE": "title",
+  "FIELD_CREATOR": "creator",
+  "CACHE_BUSTER_UNIT": "ms"
+}
